@@ -1,0 +1,1 @@
+API GraphQL para gestionar el directorio de personas con operaciones CRUD. Cada personas tiene un nombre y correo electronico validando que la cadena sea un correo. Permitir crear, leer, actualizar (incluyendo nombre y correo electronico) y eliminar personas.
